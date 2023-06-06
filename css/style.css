@@ -928,15 +928,15 @@ figure {
 }
 
 .btn.btn-primary {
-  background: #6d3d6d;
-  color: #fff;
+  background: #6d3d6d80;
+  color: #fffefe;
   border: none !important;
   border: 2px solid transparent !important;
 }
 
 .btn.btn-primary:hover, .btn.btn-primary:active, .btn.btn-primary:focus {
   box-shadow: none;
-  background: #6d3d6d;
+  background: #6d3d6d85;
   color: #fff !important;
 }
 
