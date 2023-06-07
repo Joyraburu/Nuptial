@@ -536,7 +536,7 @@ figure {
 #fh5co-guest,
 #fh5co-gallery,
 .fh5co-content-section {
-  padding: 7em 0;
+  padding: 5em 0;
 }
 
 @media screen and (max-width: 768px) {
@@ -604,7 +604,9 @@ figure {
 }
 
 #fh5co-countdown {
-  background: #6d3d6d;
+  background: rgb(145, 145, 145) ;
+  padding: 10px;
+  margin-bottom: 45px;
 }
 
 #fh5co-countdown .countdown {
